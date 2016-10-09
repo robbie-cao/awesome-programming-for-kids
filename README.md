@@ -17,10 +17,11 @@ A curated list of awesome resources for teaching kids programming.
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
 
 ## Upper Elementary
+* [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
-* [CS Unplugged](http://csunplugged.org/) - A collection of free ([Creative Commons BY-NC-SA licence](http://creativecommons.org/licenses/by-nc-sa/3.0/)) learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
+* [CS Unplugged](http://csunplugged.org/) - A collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
 * [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
-* [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.
+* [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.  
